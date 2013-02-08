@@ -1,5 +1,5 @@
 name 'evenup-ruby'
-version '1.3.3'
+version '1.3.4'
 author 'Justin Lambert <jlambert@letsevenup.com>'
 license 'Apache'
 summary 'Manages ruby and acts as a central location to include gems as packages'
