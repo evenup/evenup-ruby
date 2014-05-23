@@ -1,3 +1,5 @@
+20140523 - v1.5.0
+  Add ruby::daemons class
 v1.4.0
   Add aws-sdk and logging gems
 v1.3.4:
